@@ -1,3 +1,11 @@
+This simple movie searcher app utilizing IMDB free API (It was kind of my first real encounter with working with APIs.)
+pure global css for styling,
+using a reuseable star rating component for allowing the user to rate movies, local storage browser api for caching rated movies.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
